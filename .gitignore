@@ -1,0 +1,93 @@
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# User-specific files (Mono auto generated)
+mono_crash.*
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# Visual Studio Code
+.vscode/
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# NuGet Packages
+*.nupkg
+# Uncomment if using NuGet Package Restore
+#**/packages/*
+packages.config
+
+# DotNetCore
+project.lock.json
+project.fragment.lock.json
+artifacts/
+publish/
+
+# Backup & Report files
+*.bak
+*.sql
+*.rdl.data
+*.rdl.designer.data
+*.rdl_*
+*.rptproj.user
+*.userosscache
+
+# Windows PowerShell
+*.ps1
+*.psm1
+*.psd1
+*.ps1xml
+*.pssc
+*.psrc
+*.psd
+
+# Visual Studio Code
+.vscode/
+.vscode/settings.json
+
+# Windows thumbnail cache files
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+# Rider
+.idea/
